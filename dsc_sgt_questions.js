@@ -629,3 +629,518 @@ window.dscQuestions = [
     section: "Math Content",
     q: "Which of the following has the largest value?\nక్రింది వానిలో గరిష్ట విలువ కలిగినది ఏది?",
     options: ["(0.100)²", "1/1000", "0.0001", "10⁻⁵"],
+        ans: 0
+  },
+  {
+    id: 90,
+    section: "Math Content",
+    q: "Compound interest on ₹1000 over a period of 2 year at 12% per annum, if interest is compounded half yearly is\n₹1000 పై సంవత్సరమునకు వడ్డీ రేటు 12% చొప్పున అర్థ సంవత్సరమునకు ఒకసారి చక్రవడ్డీ లెక్కకట్టగా, 2 సంవత్సరాలకు అయ్యే చక్రవడ్డీ",
+    options: ["₹352.57", "₹362.47", "₹252.67", "₹262.47"],
+    ans: 3
+  },
+  {
+    id: 91,
+    section: "Math Content",
+    q: "The largest number which is a common factor of each of the numbers 252, 396 and 540 is\n252, 396 మరియు 540 ల యొక్క ఉమ్మడి కారణాంకాలలో గరిష్ఠ సంఖ్య",
+    options: ["42", "36", "66", "32"],
+    ans: 1
+  },
+  {
+    id: 92,
+    section: "Math Content",
+    q: "The unit cubes that are required to create a larger cube with an edge length of 3 units is\nమూడు యూనిట్లు అంచులుగా గల పెద్ద ఘనాన్ని తయారు చేయడానికి అవసరమయ్యే యూనిట్ సమ ఘనాల సంఖ్య",
+    options: ["9", "18", "27", "21"],
+    ans: 2
+  },
+  {
+    id: 93,
+    section: "Math Content",
+    q: "The volume (in cubic units) of the rectangular box with length 3pr, breadth 2qr and height 4pq is\n3pr పొడవు, 2qr వెడల్పు మరియు 4pq ఎత్తు కలిగిన దీర్ఘచతురస్రాకారపు పెట్టె ఘనపరిమాణం",
+    options: ["8pq²r", "12p²qr", "24p²q²r²", "6pqr²"],
+    ans: 2
+  },
+  {
+    id: 94,
+    section: "Math Content",
+    q: "Which of the following is FALSE relating to statistics?\nదత్తాంశ నిర్వహణకు సంబంధించి క్రింది వానిలో ఏది అసత్యము?",
+    options: ["The length of each bar in a bar graph represents the frequency of the particular item.", "The pie chart represents each item in data as equal portion of the circle. / వృత్త రేఖా చిత్రం దత్తాంశం యొక్క ప్రతి అంశాన్ని, వృత్తంలో సమాన భాగంగా సూచిస్తుంది.", "A pictograph uses pictures or symbols to represent the frequency of the data.", "Area of frequency polygon and histogram drawn for the same data are equal."],
+    ans: 1
+  },
+
+  // ================= SECTION 6: SCIENCE CONTENT (95-112) =================
+  {
+    id: 95,
+    section: "Science Content",
+    q: "Terricot is made by blending which of the following fibres?\nక్రింది ఏయే దారాలను మిశ్రణం చేయటం వల్ల టెరికాట్ ను తయారు చేస్తారు?",
+    options: ["Terylene and cotton / టెర్లిన్ మరియు ప్రత్తి", "Terylene and wool / టెర్లిన్ మరియు ఉన్ని", "Acrylic and wool / అక్రలిక్ మరియు ఉన్ని", "Nylon and cotton / నైలాన్ మరియు ప్రత్తి"],
+    ans: 0
+  },
+  {
+    id: 96,
+    section: "Science Content",
+    q: "Which of the following is NOT a precaution to be taken while using a meter scale?\nకింది వానిలో మీటర్ స్కేలును ఉపయోగించేటప్పుడు తీసుకోవలసిన జాగ్రత్త కానిది ఏది?",
+    options: ["Ensure that the ends of the scale are not worn out", "Our eye must make 60° angle above the point of coincidence of scale where the measurement is to be taken / మన కన్ను స్కేలు పై ఏ బిందువు నుంచి కొలతను తీసుకుంటామో ఆ బిందువుకు 60° ల కోణం చేస్తూ ఉండాలి", "Zero point on the scale should coincide with the starting point", "The scale should be placed exactly along the length to be measured"],
+    ans: 1
+  },
+  {
+    id: 97,
+    section: "Science Content",
+    q: "The abbreviation for IMD is\nIMD యొక్క విస్తరణ రూపం",
+    options: ["Indian Mineral Department", "Indian Mycobacterial Department", "Indian Meteorological Department / ఇండియన్ మెటియోరోలాజికల్ డిపార్ట్ మెంట్", "Indian Mines Department"],
+    ans: 2
+  },
+  {
+    id: 98,
+    section: "Science Content",
+    q: "The uppermost layer of the Earth is\nభూమి యొక్క పొరలలో అన్నింటికన్నా పైన ఉన్న పొర",
+    options: ["Crust / భూపటలం", "Mantle / భూప్రావారం", "Outer core / బాహ్య భూకేంద్ర మండలం", "Plates / పలకలు"],
+    ans: 0
+  },
+  {
+    id: 99,
+    section: "Science Content",
+    q: "The basic unit of time is\nకాలానికి మూల ప్రమాణం",
+    options: ["Day / రోజు", "Minute / నిమిషం", "Hour / గంట", "Second / సెకను"],
+    ans: 3
+  },
+  {
+    id: 100,
+    section: "Science Content",
+    q: "A magnetic compass is useful in\nఅయస్కాంత దిక్సూచి దీని కొరకు ఉపయోగపడుతుంది",
+    options: ["finding the north-south directions only", "finding the altitude only", "finding another magnet only", "finding all the directions / అన్ని దిశలను గుర్తించడం"],
+    ans: 3
+  },
+  {
+    id: 101,
+    section: "Science Content",
+    q: "To coat an iron key with copper by electroplating method, copper plate has to be connected to\nఎలక్ట్రో ప్లేటింగ్ పద్ధతిలో ఇనుప తాళంచెవి పై రాగి పూతను పూయుటకు, రాగి పలకను దీనికి కలపాలి",
+    options: ["Negative terminal of the battery", "Positive terminal of the battery / బ్యాటరీ ధన ధృవం", "Iron key", "Negative and positive terminals at the same point"],
+    ans: 1
+  },
+  {
+    id: 102,
+    section: "Science Content",
+    q: "Which of the following mixture is separated by using sublimation?\nక్రింది వాటిలో ఏ మిశ్రమాన్ని ఉత్పతనం ద్వారా వేరు చేయవచ్చు?",
+    options: ["Sugar and salt / చక్కెర మరియు ఉప్పు", "Salt and wheat flour / ఉప్పు మరియు గోధుమపిండి", "Salt and Camphor / ఉప్పు మరియు కర్పూరం", "Salt and chalk powder / ఉప్పు మరియు సుద్ద ముక్క పొడి"],
+    ans: 2
+  },
+  {
+    id: 103,
+    section: "Science Content",
+    q: "Which of the following is a chemical change?\nక్రింది వాటిలో రసాయనిక మార్పు ఏది?",
+    options: ["melting of gold ornaments", "heating of water", "drying of clothes in sunlight", "boiling of an egg / ఒక గుడ్డు ఉడకబెట్టడం"],
+    ans: 3
+  },
+  {
+    id: 104,
+    section: "Science Content",
+    q: "Identify the correct sequential order of stages in silkworm life cycle\nపట్టుపురుగు జీవిత చరిత్రలోని దశల యొక్క సరైన వరుసక్రమాన్ని గుర్తించండి",
+    options: ["Larva → egg → pupa → silkmoth", "Silkmoth → egg → pupa → larva", "Pupa → larva → silkmoth → egg", "Silkmoth → egg → larva → pupa / ప్రౌఢజీవి → గుడ్డు → లార్వా → ప్యూపా"],
+    ans: 3
+  },
+  {
+    id: 105,
+    section: "Science Content",
+    q: "Identify the saprophyte from the following:\nకింది వానిలో పూతికాహారిని గుర్తించండి",
+    options: ["Lichen / లైకెన్", "Mushrooms / పుట్టగొడుగులు", "Cuscuta / కస్క్యూటా", "Nepenthes / నెపెంథిస్"],
+    ans: 1
+  },
+  {
+    id: 106,
+    section: "Science Content",
+    q: "In tadpole stage, frogs breathe with the help of these structures.\nటాడ్ పోల్ డింభకంగా ఉన్నప్పుడు కప్ప ఈ నిర్మాణాల ద్వారా శ్వాసిస్తుంది",
+    options: ["Gills / మొప్పలు", "Lungs / ఊపిరితిత్తులు", "Trachea / వాయు నాళాలు", "Bucco pharyngeal cavity / ఆస్యగ్రసని కుహరం"],
+    ans: 0
+  },
+  {
+    id: 107,
+    section: "Science Content",
+    q: "Identify the plants with complete flowers\nసంపూర్ణ పుష్పాలున్న మొక్కలను గుర్తించండి:\nA) Ipomoea  B) Cucumber  C) Bitter gourd  D) Datura  E) Papaya  F) Hibiscus",
+    options: ["B, C & E only", "A, E & F only", "A, D & F only / A, D & F మాత్రమే", "B, C & D only"],
+    ans: 2
+  },
+  {
+    id: 108,
+    section: "Science Content",
+    q: "Match the following:\nA) Begonia — v) Leaf buds (పత్రమొగ్గలు)\nB) Gladiolus — iv) Corms (కందం)\nC) Chrysanthemum — i) Suckers (పిలక మొక్కలు)\nD) Onion — ii) Bulbs (లశునాలు)",
+    options: ["A-iii; B-iv; C-i; D-ii", "A-v; B-iii; C-ii; D-i", "A-iv; B-v; C-iii; D-ii", "A-v; B-iv; C-i; D-ii"],
+    ans: 3
+  },
+  {
+    id: 109,
+    section: "Science Content",
+    q: "Which of the following are NOT algae?\nకింది వానిలో శైవలాలు కానివి ఏవి?\nA) Cyclops  B) Ceratium  C) Spirulina  D) Diatom  E) Saccharomyces",
+    options: ["A & E only / A & E మాత్రమే", "D & E only", "B, C & E only", "A, B & C only"],
+    ans: 0
+  },
+  {
+    id: 110,
+    section: "Science Content",
+    q: "Identify the pollutant which is released from refrigerators and air conditioners and causing damage to ozone layer.\nరిఫ్రిజిరేటర్లు, ఎయిర్ కండీషనర్ ల నుండి వెలువడి ఓజోన్ పొరను దెబ్బతీస్తున్న కాలుష్యకాన్ని గుర్తించండి",
+    options: ["SO₂", "SPM", "CFC", "PAN"],
+    ans: 2
+  },
+  {
+    id: 111,
+    section: "Science Content",
+    q: "Identify the hormone secreted by pituitary gland.\nపీయుష గ్రంథి చేత స్రవించబడే హార్మోన్ ను గుర్తించండి",
+    options: ["Progesterone / ప్రొజెస్టిరాన్", "Follicle Stimulating Hormone / ఫాలికిల్ స్టిమ్యులేటింగ్ హార్మోన్", "Adrenalin / ఎడ్రినలిన్", "Estrogen / ఈస్ట్రోజన్"],
+    ans: 1
+  },
+  {
+    id: 112,
+    section: "Science Content",
+    q: "Identify the disease which is NOT caused by protozoan parasite.\nప్రోటోజోవన్ పరాన్నజీవి వల్ల సంక్రమించని వ్యాధిని గుర్తించండి",
+    options: ["Filariasis / ఫైలేరియాసిస్ (బోదకాలు)", "Sleeping sickness / అతినిద్రా వ్యాధి", "Kala-azar / కాలా అజార్", "Malaria / మలేరియా"],
+    ans: 0
+  },
+
+  // ================= SECTION 7: SOCIAL CONTENT (113-130) =================
+  {
+    id: 113,
+    section: "Social Content",
+    q: "The colour code 'Brown' is used to represent this land cover and land use in maps\nపటంలో గోధుమ/మట్టి రంగు భూ ఆచ్ఛాదన ఈ భూ వినియోగాన్ని తెలియజేస్తుంది",
+    options: ["Cropped Area / పంటలు సాగవుతున్న ప్రాంతం", "The land useful for Agriculture / వ్యవసాయానికి అనువైన భూమి", "Places with minerals / ఖనిజాలతో కూడిన ప్రదేశాలు", "Plateaus and swamps / పీఠభూములు మరియు చిత్తడి నేలలు"],
+    ans: 1
+  },
+  {
+    id: 114,
+    section: "Social Content",
+    q: "The approximate height of most of the Telangana state above the Mean Sea Level is\nతెలంగాణ రాష్ట్రంలోని చాలా ప్రాంతాలు సగటు సముద్ర మట్టానికి ఎగువన దాదాపు ఈ ఎత్తులో ఉంటాయి",
+    options: ["0-150 MSL", "150-300 MSL", "300-600 MSL", "600-1200 MSL"],
+    ans: 2
+  },
+  {
+    id: 115,
+    section: "Social Content",
+    q: "The correct sequence of the given temperatures (12°C, -18°C, 0°C, -4°C and 25°C) on arranging them in ascending order.\nఇచ్చిన ఉష్ణోగ్రతలను ఆరోహణ క్రమంలో అమర్చగా వచ్చిన సరైన క్రమం",
+    options: ["-18°C, 0°C, -4°C, 12°C, 25°C", "-18°C, -4°C, 0°C, 12°C, 25°C", "25°C, 12°C, 0°C, -4°C, -18°C", "0°C, -4°C, 12°C, -18°C, 25°C"],
+    ans: 1
+  },
+  {
+    id: 116,
+    section: "Social Content",
+    q: "The first Europeans to be seen by Eskimos were\nఎస్కిమోలు మొట్టమొదటగా చూసిన యూరోపియన్లు",
+    options: ["Vikings from Iceland / ఐస్లాండ్ కు చెందిన వైకింగ్స్", "Circassians of southern Russia", "Crimean Tatars of Crimea (Ukraine)", "Sámi peoples of northern Norway and Sweden"],
+    ans: 0
+  },
+  {
+    id: 117,
+    section: "Social Content",
+    q: "Arrange the following states of India in descending order as per their Population:\nA) Uttar Pradesh  B) Maharashtra  C) Bihar  D) West Bengal  E) Andhra Pradesh",
+    options: ["A, C, B, D, E", "A, D, B, C, E", "A, B, D, C, E", "A, B, C, D, E"],
+    ans: 3
+  },
+  {
+    id: 118,
+    section: "Social Content",
+    q: "The Caucasian Mountains, the southern boundary of Europe, lie between\nయూరప్ ఖండానికి దక్షిణ సరిహద్దు అయిన కాకేసియన్ పర్వతాలు వీటి మధ్య ఉన్నవి",
+    options: ["The Caspian Sea and the Black Sea / కాస్పియన్ సముద్రం మరియు నల్ల సముద్రం", "The Ural Mountains and the Caspian Sea", "The Black Sea and the Alps Mountains", "The Alps Mountains and the Ural Mountains"],
+    ans: 0
+  },
+  {
+    id: 119,
+    section: "Social Content",
+    q: "Describing the lives of urban people, Shudraka wrote a very interesting drama called\nపట్టణ ప్రజల జీవితాలను వివరిస్తూ శూద్రకుడు రచించిన ఆసక్తి కరమైన నాటకం",
+    options: ["Abhignana Shakuntalam / అభిజ్ఞాన శాకుంతలం", "Mrichakatikam / మృచ్ఛకటికం", "Gadha sapthashathi / గాధా సప్తశతి", "Buddha charita / బుద్ధ చరితం"],
+    ans: 1
+  },
+  {
+    id: 120,
+    section: "Social Content",
+    q: "The famous Mehrauli Iron Pillar, now in Qutub Minar Complex, was set up by\nప్రస్తుతం కుతుబ్ మినార్ కాంప్లెక్స్ లో ఉన్న ప్రసిద్ధ మెహ్రౌలీ ఇనుప స్తంభాన్ని ఏర్పాటు చేసిన వారు",
+    options: ["Chandra Gupta Vikramaditya / చంద్ర గుప్త విక్రమాదిత్యుడు", "Skanda Gupta / స్కంద గుప్తుడు", "Ashoka / అశోకుడు", "Chandra Gupta Maurya / చంద్ర గుప్త మౌర్యుడు"],
+    ans: 0
+  },
+  {
+    id: 121,
+    section: "Social Content",
+    q: "In Africa, Cocoa is grown mainly in\nఆఫ్రికాలో, కోకోను ముఖ్యంగా ఈ దేశంలో పండిస్తారు",
+    options: ["Niger / నైజర్", "Nigeria / నైజీరియా", "Egypt / ఈజిప్ట్", "Congo / కాంగో"],
+    ans: 1
+  },
+  {
+    id: 122,
+    section: "Social Content",
+    q: "In the process of paper making, the fourth stage is\nపేపర్ తయారీ ప్రక్రియలో నాల్గవ దశ",
+    options: ["Making of wood pulp / కలప గుజ్జును తయారు చేయడం", "Spreading the pulp / కలప గుజ్జును పరచడం", "Pressing, drying and rolling / ఒత్తడం, ఆరబెట్టడం మరియు చుట్టడం", "Cutting the paper according to the size required"],
+    ans: 2
+  },
+  {
+    id: 123,
+    section: "Social Content",
+    q: "This Rashtrakuta chief defeated the Chalukyan overlord and performed a ritual called 'Hiranya Garbha'\nఈ రాష్ట్రకూట రాజు చాళుక్యుల ప్రభువుని తొలగించి, 'హిరణ్య గర్భ' అనే 'సంస్కార విధి' ని నిర్వహించాడు",
+    options: ["Amoghavarsha I / అమోఘవర్ష I", "Dantidurga / దంతిదుర్గ", "Krishna II / కృష్ణ II", "Bottiga Amoghavarsha / బొట్టిగ అమోఘవర్ష"],
+    ans: 1
+  },
+  {
+    id: 124,
+    section: "Social Content",
+    q: "Abdul Razzak, the Persian trader, visited the Vijayanagara Empire during\nవ్యాపారి అయిన అబ్దుల్ రజాక్ విజయనగర సామ్రాజ్యాన్ని వీరి కాలంలో సందర్శించాడు",
+    options: ["Devaraya II / రెండవ దేవరాయలు", "Sri Krishna Devarayulu / శ్రీ కృష్ణ దేవరాయులు", "Saluva Narasimha varma / సాళువ నరసింహ వర్మ", "Hari Hara and Bukkaraya / హరి హర మరియు బుక్కరాయలు"],
+    ans: 0
+  },
+  {
+    id: 125,
+    section: "Social Content",
+    q: "On 18th March, 1944 the Indian National Army crossed the frontiers of Burma and entered India with a slogan\nమార్చి 18, 1944న భారత జాతీయ సైన్యం బర్మా సరిహద్దులను దాటి ఈ నినాదంతో భారతదేశంలోకి ప్రవేశించింది",
+    options: ["Gandhiji's swaraj is coming...", "Purna Swaraj / పూర్ణ స్వరాజ్", "Dilli Chalo / డిల్లీ చలో", "British Rule in India must end immediately"],
+    ans: 2
+  },
+  {
+    id: 126,
+    section: "Social Content",
+    q: "The Nizam rulers of Hyderabad state spoke this language\nహైదరాబాద్ రాష్ట్రంలోని నిజాం పాలకులు మాట్లాడిన భాష",
+    options: ["Arabic / అరబిక్", "Persian / పర్షియన్", "Kashmiri / కాశ్మీరీ", "Deccani Urdu / దక్కనీ ఉర్దూ"],
+    ans: 3
+  },
+  {
+    id: 127,
+    section: "Social Content",
+    q: "The president of the Constituent Assembly and the chairman of the Drafting committee of the Indian Constitution were\nభారత రాజ్యాంగ పరిషత్ అధ్యక్షుడు మరియు రాజ్యాంగ ముసాయిదా కమిటీ చైర్మన్",
+    options: ["Dr. Sarvepalli Radhakrishnan and Dr. B.R. Ambedkar", "Alladi Krishna Swamy Iyyer and Dr. B.R. Ambedkar", "Sir Benegal Narsing Rao and Dr. B.R. Ambedkar", "Dr. Rajendra Prasad and Dr. B.R. Ambedkar / డా. రాజేంద్ర ప్రసాద్ మరియు డా.బి.ఆర్. అంబేద్కర్"],
+    ans: 3
+  },
+  {
+    id: 128,
+    section: "Social Content",
+    q: "The independent institution that supervises the expenditure of the Government and report directly to the President of India is\nప్రభుత్వ వ్యయాన్ని పర్యవేక్షిస్తూ మరియు నేరుగా భారత రాష్ట్రపతికి నివేదించే స్వతంత్ర సంస్థ",
+    options: ["Auditor General of India", "Public Accounts Committee", "Comptroller and Auditor General of India / కంప్ట్రోలర్ మరియు ఆడిటర్ జనరల్ ఆఫ్ ఇండియా", "NITI Aayog"],
+    ans: 2
+  },
+  {
+    id: 129,
+    section: "Social Content",
+    q: "From among the following, the members of the Rajya Sabha are elected by\nకింది వారిలో రాజ్యసభ సభ్యులను ఎన్నుకొనువారు",
+    options: ["The members of the State Legislative Council and State Legislative Assembly", "The members of the State Legislative Assembly / రాష్ట్ర విధానసభ సభ్యులు", "The elected members of the Lok Sabha", "The members of the State Legislative Assembly and the members of the Lok Sabha"],
+    ans: 1
+  },
+  {
+    id: 130,
+    section: "Social Content",
+    q: "At Divisional Level, the Criminal cases are dealt in these courts\nడివిజనల్ స్థాయిలో, క్రిమినల్ కేసులు ఈ కోర్టులలో పరిష్కరించబడతాయి",
+    options: ["District Court / జిల్లా కోర్టు", "Junior Civil Judge Court / జూనియర్ సివిల్ జడ్జి కోర్టు", "Session's Court / సెషన్స్ కోర్టు", "Asst. Session's Judge Court / అసిస్టెంట్ సెషన్స్ జడ్జి కోర్టు"],
+    ans: 3
+  },
+
+  // ================= SECTION 8: TELUGU METHODOLOGY (131-136) =================
+  {
+    id: 131,
+    section: "Telugu Methodology",
+    q: "\"తమ భావాలను, ఉద్వేగాలను, ఆలోచనలను, ఆకాంక్షలను వ్యక్తం చేయడానికి అప్రయత్నంగా, సహజంగా రూపొందించుకున్న సాధనం భాష\" అని నిర్వచించిన భాషావేత్త",
+    options: ["స్టర్ట్ వర్ట్", "నోమ్ చామ్ స్కీ", "సెఫైర్", "హాకెట్"],
+    ans: 2
+  },
+  {
+    id: 132,
+    section: "Telugu Methodology",
+    q: "అపరిచిత పద్య భాగాలకు సరియైన శీర్షికలను సూచించగల్గుట - అనే స్పష్టీకరణం, ఈ బోధనా లక్ష్యానికి చెందినది",
+    options: ["జ్ఞానము", "అవగాహన", "రసానుభూతి", "మనోవైఖరి"],
+    ans: 1
+  },
+  {
+    id: 133,
+    section: "Telugu Methodology",
+    q: "ద్విత్వానికి సంయుక్తం, సంయుక్తానికి ద్విత్వం ఉపయోగించడం వల్ల ఏర్పడే ధ్వని దోషాలకు ఉదాహరణలు",
+    options: ["పక్షి పులుసు, అన్నాయము", "విసయం, మోషము", "వకటి, ఈరయ్య", "లామాలావు, వేల"],
+    ans: 0
+  },
+  {
+    id: 134,
+    section: "Telugu Methodology",
+    q: "ఒక విద్యా సంవత్సరంలో వచ్చే సెలవులు, పని దినాలు, పరీక్షలు, పాఠశాల ఉత్సవాలు మొ॥ వానిని దృష్టిలోనుంచుకొని, ఉపాధ్యాయుడు పాఠ్య, సహ పాఠ్య కార్యక్రమాలకు సంబంధించి నెలల వారీగా రూపొందించుకొనే ప్రణాళిక",
+    options: ["విద్యా ప్రణాళిక", "యూనిట్ ప్రణాళిక", "పీరియడ్ ప్రణాళిక", "వార్షిక ప్రణాళిక"],
+    ans: 3
+  },
+  {
+    id: 135,
+    section: "Telugu Methodology",
+    q: "ఓవర్ హెడ్ ప్రొజెక్టర్, ఈ రకమైన బోధనోపకరణం",
+    options: ["శ్రవ్య", "దృశ్య", "ప్రత్యేక", "దృశ్య-శ్రవణ"],
+    ans: 1
+  },
+  {
+    id: 136,
+    section: "Telugu Methodology",
+    q: "లఘు పరీక్ష, ప్రాజెక్ట్ పనుల నిర్వహణ, ఈ రకమైన మూల్యాంకనంలో భాగము",
+    options: ["లోప నిర్ధారణ", "సంగ్రహణాత్మక", "నిర్మాణాత్మక", "ప్రాగుక్తిక"],
+    ans: 2
+  },
+
+  // ================= SECTION 9: ENGLISH METHODOLOGY (137-142) =================
+  {
+    id: 137,
+    section: "English Methodology",
+    q: "In English language teaching, the following theme best suits to the students of Primary level.",
+    options: ["Family", "Science and Technology", "Women empowerment", "International Peace"],
+    ans: 0
+  },
+  {
+    id: 138,
+    section: "English Methodology",
+    q: "Rajani, who teaches class V, asked the learners to complete the conversation in the boxes provided. She asked them to practice the dialogues before role-playing them. The skills that were developed here are:\nA) reading  B) listening  C) writing  D) speaking",
+    options: ["A & B only", "A, B, C & D", "C & D only", "A, C & D only"],
+    ans: 1
+  },
+  {
+    id: 139,
+    section: "English Methodology",
+    q: "Identify the characteristic feature of the language:\n'We can sit in our drawing rooms and discuss the parliamentary debates happening in Delhi.'",
+    options: ["Language exhibits duality of structure.", "Language is arbitrary.", "Language exhibits displacement.", "Language transmits culture."],
+    ans: 2
+  },
+  {
+    id: 140,
+    section: "English Methodology",
+    q: "This activity is more suitable for promoting speaking abilities in the English language classroom.",
+    options: ["Reading a text", "Writing a story", "Enacting a role-Play", "Listening to audio"],
+    ans: 2
+  },
+  {
+    id: 141,
+    section: "English Methodology",
+    q: "This question is difficult to frame but easy to evaluate its answer.",
+    options: ["Essay Type Question", "Short Answer Type", "Multiple Choice Question", "Long Answer Type"],
+    ans: 2
+  },
+  {
+    id: 142,
+    section: "English Methodology",
+    q: "'CALP' stands for",
+    options: ["Cognitive Academic Language Programme", "Cognitive Academic Language Proficiency", "Cognitive Achievement of Language Proficiency", "Cognitive Advance Language Proficiency"],
+    ans: 1
+  },
+
+  // ================= SECTION 10: MATH METHODOLOGY (143-148) =================
+  {
+    id: 143,
+    section: "Math Methodology",
+    q: "Read the following pairs related to formation of mathematical concepts:\nA) Student looks at a triangle and forms a mental image based on its characteristics: Discrimination\nB) Student applies the concept of quadrilateral and concludes square, rectangle, trapezium are quadrilaterals: Generalisation\nC) Student distinguishes circular objects based on 'roundness': Abstraction\nChoose the correct pair/s:",
+    options: ["A only", "B only", "A & C only", "A, B & C"],
+    ans: 1
+  },
+  {
+    id: 144,
+    section: "Math Methodology",
+    q: "A student 'applies the concept of profit and loss in daily life situations'. Then, the academic standard attained by the student is:\nఒక విద్యార్థి 'లాభ-నష్టాల భావనను నిత్యజీవిత సందర్భాలలో వినియోగించును'. అయిన, ఆ విద్యార్థి సాధించిన విద్యా ప్రమాణము:",
+    options: ["Problem solving / సమస్యా సాధన", "Reasoning and proof / కారణాలు చెప్పడం - నిరూపణలు చేయడం", "Communication / వ్యక్తపరచడం", "Connection / అనుసంధానం"],
+    ans: 3
+  },
+  {
+    id: 145,
+    section: "Math Methodology",
+    q: "Identify the merits of synthesis method among the following:\nA) This is a concise method (ఇది సంక్షిప్తమైన పద్ధతి)\nB) It saves time (ఇది కాలాన్ని పొదుపు చేస్తుంది)\nC) It fosters an exploratory perspective (ఇది అన్వేషణ దృక్పథాన్ని పెంపొందిస్తుంది)\nD) Useful for solving routine problems quickly",
+    options: ["A, B & C only", "A, B & D only", "C & D only", "A, B, C & D"],
+    ans: 1
+  },
+  {
+    id: 146,
+    section: "Math Methodology",
+    q: "Statement-I: Students interested in mathematics are members of mathematics club.\nStatement-II: Tailor, carpenter, gardener etc. can be used as human resources in teaching and learning mathematics.\nగణిత బోధనలో అభ్యసన వనరులకు సంబంధించిన పై వ్యాఖ్యలలో:",
+    options: ["Both the statements are true / రెండు వ్యాఖ్యలు సత్యం", "Both the statements are false / రెండు వ్యాఖ్యలు అసత్యం", "Statement-I is true and Statement-II is false", "Statement-I is false and Statement-II is true"],
+    ans: 0
+  },
+  {
+    id: 147,
+    section: "Math Methodology",
+    q: "Arrange the steps of the 5E Learning Model in sequential order:\nA) Engage  B) Explain  C) Explore  D) Evaluate  E) Elaborate",
+    options: ["A, D, B, C, E", "B, A, E, C, D", "A, C, B, E, D", "C, A, B, D, E"],
+    ans: 2
+  },
+  {
+    id: 148,
+    section: "Math Methodology",
+    q: "Which of the following is NOT a major part of the assessment framework?\nక్రింది వాటిలో మదింపు చట్రంలోని ప్రధాన విభాగం కానిది ఏది?",
+    options: ["Teaching and learning strategies / బోధనాభ్యసన వ్యూహాలు", "Learning indicators / అభ్యసన సూచికలు", "Assessment tools / మదింపు సాధనాలు", "Reviewing / సమీక్ష చేయడం"],
+    ans: 3
+  },
+
+  // ================= SECTION 11: SCIENCE METHODOLOGY (149-154) =================
+  {
+    id: 149,
+    section: "Science Methodology",
+    q: "Which of the following is a part of Environmental studies:\nA) Knowing about the environment  B) Learning through the environment  C) Learning for the environment",
+    options: ["A & B only", "B & C only", "A, B & C", "A & C only"],
+    ans: 2
+  },
+  {
+    id: 150,
+    section: "Science Methodology",
+    q: "Cognitive development may influence children's emotion levels in this age\nజ్ఞానాత్మక అభివృద్ధి ఈ వయస్సులో పిల్లల భావోద్వేగ స్థాయిలను ప్రభావితం చేయవచ్చు",
+    options: ["3-4 years / 3-4 సంవత్సరాలు", "8-12 years / 8-12 సంవత్సరాలు", "13-15 years / 13-15 సంవత్సరాలు", "1-2 years / 1-2 సంవత్సరాలు"],
+    ans: 1
+  },
+  {
+    id: 151,
+    section: "Science Methodology",
+    q: "These are known as the main gateways to learning\nఅభ్యసనకు ప్రధాన ద్వారాలు అని వీటికి పేరు",
+    options: ["Sense organs / జ్ఞానేంద్రియాలు", "Teachers / ఉపాధ్యాయులు", "Books / పుస్తకాలు", "Class rooms / తరగతి గదులు"],
+    ans: 0
+  },
+  {
+    id: 152,
+    section: "Science Methodology",
+    q: "Identify the most suitable method for teaching biographies of scientists in addition to the subject of science\nవిజ్ఞాన శాస్త్రంలోని విషయంతో పాటు శాస్త్రవేత్తల జీవిత చరిత్రలను కూడా బోధించడానికి అత్యంత అనుకూల పద్ధతి",
+    options: ["Heuristic Method / అన్వేషణ పద్ధతి", "Activity Method / కృత్య పద్ధతి", "Historical method / చారిత్రక పద్ధతి", "Deductive Method / నిగమన పద్ధతి"],
+    ans: 2
+  },
+  {
+    id: 153,
+    section: "Science Methodology",
+    q: "In Telangana state EVS text books, the exercise 'I can do these' at the end of each lesson is meant for\nతెలంగాణ రాష్ట్ర EVS పాఠ్య పుస్తకాలలో, ప్రతి పాఠం చివరిలో 'నేను వీటిని చేయగలను' అనే అభ్యాసం దీని కోసం ఉద్దేశించబడింది",
+    options: ["self-evaluation / స్వీయ మూల్యాంకనం", "peer evaluation / సమవయస్కుల మూల్యాంకనం", "teacher evaluation / ఉపాధ్యాయుల మూల్యాంకనం", "diagnostic evaluation / లోప నిర్ధారణ మూల్యాంకనం"],
+    ans: 0
+  },
+  {
+    id: 154,
+    section: "Science Methodology",
+    q: "Which of the following is useful for displaying both transparent and opaque materials?\nకింది వానిలో పారదర్శక, అపారదర్శక పదార్థాలను రెండింటిని ప్రదర్శించడానికి ఉపయోగపడేది ఏది?",
+    options: ["Slide projector / స్లైడ్ ప్రొజెక్టర్", "Epidiascope / ఎపిడయా స్కోప్", "Overhead projector / ఓవర్ హెడ్ ప్రొజెక్టర్", "Film strip projector / ఫిల్మ్ స్ట్రిప్ ప్రొజెక్టర్"],
+    ans: 1
+  },
+
+  // ================= SECTION 12: SOCIAL METHODOLOGY (155-160) =================
+  {
+    id: 155,
+    section: "Social Methodology",
+    q: "Which of the following statements are TRUE related to concept of Environmental studies (EVS)?\nA) EVS provides proper understanding about environment to all human beings\nB) Physical environment is also called as man-made environment\nC) Forts, Art galleries, Dams, Cultural centres include in social environment",
+    options: ["B & C only", "A & C only / A & C మాత్రమే", "A & B only", "A, B & C"],
+    ans: 1
+  },
+  {
+    id: 156,
+    section: "Social Methodology",
+    q: "'Telling reasons' and 'growing flower gardens' are the learning indicators of these Academic standards respectively\n'కారణాలు చెప్పుట', 'పూలవనం పెంచుట' అను అభ్యసన సూచికలు వరుసగా ఈ విద్యా ప్రమాణాలకు చెందినవి",
+    options: ["Information skills; appreciation and sensitivity", "Conceptual understanding; mapping skills", "Conceptual understanding; appreciation and sensitivity / భావన అవగాహన; ప్రశంస - సున్నితత్వం", "Questioning; experiments and field observations"],
+    ans: 2
+  },
+  {
+    id: 157,
+    section: "Social Methodology",
+    q: "Match the following related to teaching EVS:\nA) Why to teach? — iv) Achievement of objectives (లక్ష్యాల సాధన)\nB) What to teach? — i) Subject (పాఠ్య విషయం)\nC) How to teach? — ii) Methods and approaches (పద్ధతులు, ఉపగమాలు)",
+    options: ["A-iv; B-i; C-ii", "A-iii; B-iv; C-i", "A-i; B-iii; C-ii", "A-ii; B-iii; C-i"],
+    ans: 0
+  },
+  {
+    id: 158,
+    section: "Social Methodology",
+    q: "Which of the following statements are TRUE related to pictures and maps?\nA) Both pictures and maps are visual aids\nB) Both pictures and maps have map language\nC) Scope of picture is very small when compared to map",
+    options: ["A, B & C", "A & B only", "B & C only", "A & C only / A & C మాత్రమే"],
+    ans: 3
+  },
+  {
+    id: 159,
+    section: "Social Methodology",
+    q: "Which of the following statements are TRUE related to merits of ICT in classroom?\nA) ICT develops creativity in teaching\nB) It helps the teacher to conduct variety of teaching in single way\nC) It provides an opportunity for cooperative learning among children",
+    options: ["A & B only", "B & C only", "A & C only / A & C మాత్రమే", "A, B & C"],
+    ans: 2
+  },
+  {
+    id: 160,
+    section: "Social Methodology",
+    q: "\"Collect the information about explorers like Columbus\". This question aimed at achieving this academic standard.\n\"కొలంబస్ వంటి అన్వేషకుల గురించి సమాచారాన్ని సేకరించండి\" అను ప్రశ్న ఈ విద్యా ప్రమాణాన్ని సాధించుటకు ఉద్దేశించబడినది.",
+    options: ["Mapping skills / పట నైపుణ్యాలు", "Information skills and project work / సమాచార నైపుణ్యాలు, ప్రాజెక్టు పని", "Appreciation and sensitivity / ప్రశంస - సున్నితత్వం", "Conceptual understanding / భావనల అవగాహన"],
+    ans: 1
+  }
+];
+
